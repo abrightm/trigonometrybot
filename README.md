@@ -1,0 +1,2 @@
+# trigonometrybot
+Trigonometry Bot
